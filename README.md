@@ -6,9 +6,15 @@
 🔭 I’m currently working on Azure related project, OpenAI, React, FastAPI
 
 ---
-<img src="https://raw.githubusercontent.com/poxcondev/poxcondev/output/snake.svg" alt="Snake animation" />
----
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poxcondev/poxcondev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poxcondev/poxcondev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poxcondev/poxcondev/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+## 💻 Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
   <img width="12" />
