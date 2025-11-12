@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Azure related project, OpenAI, React, FastAPI
 
----
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poxcondev/poxcondev/output/pacman-contribution-graph-dark.svg">
@@ -13,7 +13,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poxcondev/poxcondev/output/pacman-contribution-graph.svg">
 </picture>
 
----
+### 
+
 ## 💻 Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
